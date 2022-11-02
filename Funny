@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ITsisse leht</title>
+</head>
+<body>
+
+<h1>213451</h1>
+<a href="https://taltech.ee/">See on link Taltechi lehele</a>
+
+<h1>pilt</h1>
+<img src="https://i.kym-cdn.com/photos/images/original/001/768/619/975.jpg" alt="Pilt on siin "width="750" height="691" >
+
+<table>
+	<tr>
+		<th>Eesnimi</th>
+		<th>Perekonna nimi</th>
+		<th>Vanus</th>
+	</tr>
+	<tr>
+		<td>Tarmo</td>
+		<td>Suvi</td>
+		<td>20</td>
+	</tr>
+</table>
+
+</body>
+</html>
